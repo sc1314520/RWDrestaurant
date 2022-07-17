@@ -3,4 +3,4 @@ $(document).ready(function () {
         event.preventDefault();
         $('.menu-list').toggleClass("menu-list-open");
       });
-});
+})
