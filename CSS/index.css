@@ -85,9 +85,12 @@
 
 .banner{
     position: relative; 
+    width:100%;
+    margin: 0 auto;
+
 }
 .banner img{
-    max-width:100%;
+    width:100%;
 }
 .banner-text-box{
     position: absolute;
