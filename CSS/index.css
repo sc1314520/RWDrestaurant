@@ -90,7 +90,7 @@
 
 }
 .banner img{
-    width:100%;
+    max-width:100%;
 }
 .banner-text-box{
     position: absolute;
