@@ -1,0 +1,3 @@
+// bg scroll 
+    $('#profiles').css('background-position-y', -(scrollPos / 2) + 'px')  
+    $('#header-ele').css('transform', 'translateY( ' + (scrollPos / 2) + 'px )')
