@@ -1,9 +1,0 @@
-在 Html 中設置全版面為 wrap
-則 css 中撰寫：
-.wrap {
-  overflow: hidden;
-  background-image: url(https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?dpr=2&auto=format&fit=crop&w=450&h=750&q=50&cs=tinysrgb&crop=);
-  background-position: bottom center;    <-- x座標,ｙ座標
-  background-size: cover; <-- 縮放圖片以完全覆蓋背景區。    （ cover 用於圖片小於容器時， contain 用於圖片大於容器時。）
-  background-attachment: fixed;     <-- scroll / fixed 代表 隨頁面滾動而滾動/固定
-}
